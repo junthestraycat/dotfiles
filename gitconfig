@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = junichimasuda@outlook.com
+	name = Junichi Masuda
